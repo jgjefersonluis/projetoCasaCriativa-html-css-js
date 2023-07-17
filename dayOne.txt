@@ -1,1 +1,7 @@
+comandos github para branch
+
+git checkout
+
+git push origin dayOne
+
 Primeira Future
