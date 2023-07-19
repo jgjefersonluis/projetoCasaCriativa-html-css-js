@@ -1,5 +1,7 @@
 comandos github para branch
 
+git status
+
 git checkout
 
 git push origin dayOne
