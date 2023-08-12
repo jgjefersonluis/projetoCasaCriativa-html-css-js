@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <title>Ideias - Casa Criativa</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link
+            href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700;900&display=swap"
+            rel="stylesheet">
+        <link href="../css/style.css" rel="stylesheet">
+    </head>
+    <body id="page-ideas">
+        <div id="container">
+            <header>
+                <a href="../index.html">
+                    <img src="../img/logocasaCriativa.png"
+                        alt="Logo Casa Criativa">
+                </a>
+                <nav>
+                    <li><a href="../index.html">Inicio</a></li>
+                    <li><a class="button" href="#" onclick="onOff()">Nova ideia</a></li>
+                </nav>
+            </header>
+            <section id="title">
+                <p>em exibição</p>
+                <h1>Ideias</h1>
+            </section>
+            <main>
+                <section id="ideas">
+                    <div class="idea">
+                        <img
+                            src="../img/img_icons/caderno.gif"
+                            alt="Cursos de programação">
+                        <div class="content">
+                            <h3>Cursos de programação</h3>
+                            <p>Estudo</p>
+                            <div class="description">
+                                Lorem ipsum, dolor sit amet consectetur
+                                adipisicing
+                                elit. Ad vel, autem suscipit aspernatur tempore
+                                similique. Eligendi veniam at animi atque harum.
+
+                            </div>
+                            <a href="#">Ir para a Ideia</a>
+                        </div>
+                    </div>
+
+                    <div class="idea">
+                        <img
+                            src="../img/img_icons/levantamento-terra.gif"
+                            alt="Exercicios fisicos">
+                        <div class="content">
+                            <h3>Exercicios</h3>
+                            <p>Saude</p>
+                            <div class="description">
+                                Lorem ipsum, dolor sit amet consectetur
+                                adipisicing
+                                elit. Ad vel, autem suscipit aspernatur tempore
+                                similique. Eligendi veniam at animi atque harum.
+
+                            </div>
+                            <a href="#">Ir para a Ideia</a>
+                        </div>
+                    </div>
+
+                    <div class="idea">
+                        <img
+                            src="../img/img_icons/pose-de-lotus.gif"
+                            alt="Meditação">
+                        <div class="content">
+                            <h3>Meditação<ol></ol></h3>
+                            <p>Mentalidade</p>
+                            <div class="description">
+                                Lorem ipsum, dolor sit amet consectetur
+                                adipisicing
+                                elit. Ad vel, autem suscipit aspernatur tempore
+                                similique. Eligendi veniam at animi atque harum.
+
+                            </div>
+                            <a href="#">Ir para a Ideia</a>
+                        </div>
+                    </div>
+
+                    <div class="idea">
+                        <img src="../img/img_icons/microfone.gif"
+                            alt="Imagem de Karaoke">
+                        <div class="content">
+                            <h3>Karaoke<ol></ol></h3>
+                            <p>Diversão em família</p>
+                            <div class="description">
+                                Lorem ipsum, dolor sit amet consectetur
+                                adipisicing
+                                elit. Ad vel, autem suscipit aspernatur tempore
+                                similique. Eligendi veniam at animi atque harum.
+
+                            </div>
+                            <a href="#">Ir para a Ideia</a>
+                        </div>
+                    </div>
+
+                </section>
+
+            </main>
+            <footer>
+                Com ❤️ <a href="http://google.com" target="_blank">Gundisalvus!</a>
+            </footer>
+
+        </div>
+        <!-- modal -->
+
+        <div id="modal" class="hide">
+            <div class="content">
+                <h1>Nova Ideia</h1>
+
+                <form action>
+
+                    <div class="input-wrapper">
+                        <label for="title">Titulo da idea</label>
+                        <input type="text" name="title">
+                    </div>
+
+                    <div class="input-wrapper">
+                        <label for="category">Categoria</label>
+                        <input type="text" name="category">
+                    </div>
+
+                    <div class="input-wrapper">
+                        <label for="image">Link da imagem</label>
+                        <input type="url" name="image">
+                    </div>
+
+                    <div class="input-wrapper">
+                        <label for="descrition">Digite uma descrição para essa
+                            ideia</label>
+                        <textarea name="description" cols="30" rows="10"></textarea>
+                    </div>
+
+                    <div class="input-wrapper">
+                        <label for="link">Link da ideia</label>
+                        <input type="url" name="link">
+                    </div>
+
+                    <a href="#" onclick="onOff()">Voltar</a>
+                    <button>Salvar</button>
+
+                </form>
+
+            </div>
+        </div>
+
+        <script src="../js/scripts.js"></script>
+
+    </body>
+</html>
