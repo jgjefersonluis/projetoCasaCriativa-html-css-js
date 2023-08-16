@@ -1,6 +1,6 @@
 Projeto a Casa Criativa. 
 
-A Casa Criativa é um projeto para aprender frontend html, css e js, uma tempestade de ideias que podemos cadastrar e consultar. O objetivo é interagir e proporcionar uma experiência de participação e compartilhamento. A Casa Criativa foi criada pela potenciatech em um curso de cinco aulas. Para trazer para o mercado de trabalho pessoas que queiram trabalhar com a construção de sites. Mostrando muita qualidade e valorização desse trabalho incrível.
+A Casa Criativa é um projeto para aprender frontend html, css e js, uma tempestade de ideias que podemos cadastrar, consultar as ideias e experiências. O objetivo é interagir e proporcionar uma experiência de participação e compartilhamento. A Casa Criativa foi criada pela potenciatech em um curso de cinco aulas. Para trazer para o mercado de trabalho pessoas que queiram trabalhar com a construção de sites. Mostrando muita qualidade e valorização desse trabalho incrível.
 
 https://casacriativa.webcindario.com/index.html
 
