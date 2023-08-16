@@ -1,10 +1,10 @@
 Projeto a Casa Criativa.
 
 Ambiente de desenvolvimento
+Visual Studio Code - IDE de desenvolvimento.
+Trello - Gerenciador das tarefas.
+github - Repositorio para versionamento.
 
-Trello
-github
-Visual Studio Code
 
 Time de Desenvolvimento
 
@@ -13,8 +13,9 @@ eneudes.ap@gmail.com
 eduardovital106@gmail.com
 jgjefersonluis@gmail.com
 
-https://potenciatech.com.br/
-
 https://github.com/jgjefersonluis/projetoCasaCriativa-html-css-js
 
-https://www.treinaweb.com.br/blog/comandos-do-git-que-voce-precisa-conhecer-parte-1
+Deploy: https://casacriativa.webcindario.com/index.html
+
+Créditos : https://potenciatech.com.br/
+
